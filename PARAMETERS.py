@@ -1,5 +1,5 @@
-handle_name = "hamza_hassan"
-password = ""
+handle_name = "your_handle_here"
+password = "your_password_here"
 first_page = 1
 last_page = 100
 result_folder_name = "problems"
