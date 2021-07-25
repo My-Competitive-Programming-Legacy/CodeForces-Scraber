@@ -1,0 +1,16 @@
+extensions = {'GNU C11': 'c',
+              'Clang++17 Diagnostics': 'cpp',
+              'GNU C++11': 'cpp',
+              'GNU C++14': 'cpp',
+              'GNU C++17': 'cpp',
+              'GNU C++17 (64)': 'cpp',
+              'Microsoft Visual C++ 2010': 'cpp',
+              'Microsoft Visual C++ 2017': 'cpp',
+              'Java 11': 'java',
+              'Java 8': 'java',
+              'Python 2': 'py',
+              'Python 3': 'py',
+              'PyPy 2': 'py',
+              'PyPy 3': 'py',
+              }
+
