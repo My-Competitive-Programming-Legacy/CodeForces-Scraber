@@ -14,7 +14,7 @@ that you better modify them to your e-mail(or handle) and your password
 that will be created.
 
 ## FAQ
-**Why the hell you need my password?**  
+**Why the heck you need my password?**  
 There are some problems to which you can't see the submission unless you solved them.
 Entering your password will guarantee that most of the problems will be retreived.  
 In other words, we know that there are several contests in the GYM, like [this](https://codeforces.com/gym/103202/), to which you can't see their users' 
